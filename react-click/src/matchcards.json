@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "image": "./image/2pac.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "./image/black.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "./image/drake.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "./image/images.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "./image/og.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "./image/luc.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "./image/gucci.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "./image/lilwayne.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "./image/red.jpg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "./image/biggie.jpg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "./image/Spoop.jpg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "./image/ice.jpg",
+      "clicked": false
+    }
+  ]
